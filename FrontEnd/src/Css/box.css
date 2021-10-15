@@ -1,0 +1,196 @@
+/*sub1*/
+.sub1 {
+  background-color: #435ba1;
+  height: 250px;
+  font-size: 16px;
+  border-radius: 10px 0px 0px 10px;
+  transition: 0.6s;
+  overflow: hidden;
+  text-align: left;
+  padding-left: 1em;
+
+}
+.sub1:focus {
+  outline: none;
+}
+
+.sub1:before {
+  content: "";
+  display: block;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.5);
+  height: 100%;
+  left: 0;
+  top: 0;
+  opacity: 0.5;
+  filter: blur(30px);
+  transform: translateX(-130px) skewX(-15deg);
+}
+
+.sub1:after {
+  content: "";
+  display: block;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.2);
+  width: 30px;
+  height: 100%;
+  left: 30px;
+  top: 0;
+  opacity: 0;
+  filter: blur(30px);
+  transform: translateX(-100px) scaleX(-15deg);
+}
+
+.sub1:hover {
+  background:  #858fac;
+  cursor: pointer;
+ 
+}
+
+.sub1:hover:before {
+  transform: translateX(300px) skewX(-15deg);
+  opacity: 0.6;
+  transition: 0.7s;
+}
+
+.sub1:hover:after {
+  transform: translateX(300px) skewX(-15deg);
+  opacity: 1;
+  transition: 0.7s;
+}
+
+
+/*sub2*/
+.sub2 {
+  background-color: #4f6dcd;
+  height: 250px;
+  font-size: 16px;
+  border-radius: 0 0 0 0;
+  transition: 0.6s;
+  overflow: hidden;
+  text-align: left;
+  padding-left: 1em;
+}
+
+.sub2:focus {
+  outline: none;
+}
+
+.sub2:before {
+  content: "";
+  display: block;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.5);
+  height: 100%;
+  left: 0;
+  top: 0;
+  opacity: 0.5;
+  filter: blur(30px);
+  transform: translateX(-130px) skewX(-15deg);
+}
+
+.sub2:after {
+  content: "";
+  display: block;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.2);
+  width: 30px;
+  height: 100%;
+  left: 30px;
+  top: 0;
+  opacity: 0;
+  filter: blur(30px);
+  transform: translateX(-100px) scaleX(-15deg);
+}
+
+.sub2:hover {
+  background: #a3abc7;;
+  cursor: pointer;
+}
+
+.sub2:hover:before {
+  transform: translateX(300px) skewX(-15deg);
+  opacity: 0.6;
+  transition: 0.7s;
+}
+
+.sub2:hover:after {
+  transform: translateX(300px) skewX(-15deg);
+  opacity: 1;
+  transition: 0.7s;
+}
+/*sub3*/
+.sub3 {
+  background-color: #43d5cb;
+  height: 250px;
+  font-size: 16px;
+  border-radius: 0 10px 10px 0 ;
+  transition: 0.6s;
+  overflow: hidden;
+  text-align: left;
+  padding-left: 1em;
+}
+
+.sub3:focus {
+  outline: none;
+}
+
+.sub3:before {
+  content: "";
+  display: block;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.5);
+
+  height: 100%;
+  left: 0;
+  top: 0;
+  opacity: 0.5;
+  filter: blur(30px);
+  transform: translateX(-130px) skewX(-15deg);
+}
+
+.sub3:after {
+  content: "";
+  display: block;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.2);
+  width: 30px;
+  height: 100%;
+  left: 30px;
+  top: 0;
+  opacity: 0;
+  filter: blur(30px);
+  transform: translateX(-100px) scaleX(-15deg);
+}
+
+.sub3:hover {
+  background:#acd8d5;
+  cursor: pointer;
+}
+
+.sub3:hover:before {
+  transform: translateX(300px) skewX(-15deg);
+  opacity: 0.6;
+  transition: 0.7s;
+}
+
+.sub3:hover:after {
+  transform: translateX(300px) skewX(-15deg);
+  opacity: 1;
+  transition: 0.7s;
+}
+
+.box1 {
+  margin-top: 90px;
+  background: 0 0;
+  font-family: open sans,sans-serif;
+  color:white;
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+  text-align: left;
+}

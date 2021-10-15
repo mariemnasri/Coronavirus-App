@@ -1,0 +1,262 @@
+.fleche {
+  vertical-align: top;
+  height: 30px;
+  width: 30px;
+}
+.bt {
+  position: relative;
+  margin-top: 2em;
+  margin-bottom: 5px;
+  background-color: rgb(83, 83, 170);
+}
+.cad {
+  background: none;
+  color: rgb(17, 15, 15);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  border-radius: 8px 8px 8px 8px;
+}
+.cad:hover {
+  transition: background 0.7s ease-in-out;
+  background: rgb(170, 242, 247);
+  cursor: pointer;
+  border: 0.5px solid !important;
+}
+
+.questionsTitle {
+  color: #333;
+  font-size: 26px;
+  margin-bottom: 35px;
+  padding: 0 40px;
+  font-weight: 600;
+}
+.questionsIndication {
+  color: #7b7070;
+  font-weight: 500;
+  margin-bottom: 21px;
+  padding: 0 40px;
+}
+.test1 {
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 60px;
+  box-sizing: inherit;
+}
+
+.div1 {
+  width: 100%;
+  margin: 0 10vw;
+  background-color: #f8f8f8;
+  
+  padding: 39px 8px 8px;
+  box-sizing: inherit;
+}
+
+.bt1 {
+  background-color: rgb(83, 83, 170);
+  justify-content: flex-end;
+  width: 300px;
+  margin: 1px 0 10px 40%;
+  height: 50px;
+  font-weight: bold;
+  font-size: 17px;
+}
+.input-text {
+  height: 64px;
+  width: auto;
+
+  font-size: 28px;
+  font-weight: 500;
+  color: #333;
+  border: 3px solid #333;
+  box-sizing: border-box;
+  text-align: right;
+  overflow: visible;
+  margin: 0;
+  padding-left: 5em;
+}
+
+.div1 h4 {
+  text-align: center;
+  color: rgb(43, 139, 123);
+}
+.card {
+  padding: 10px;
+  margin-top: 2rem;
+}
+.div2 h4 {
+  color: rgb(24, 69, 136);
+}
+
+.question {
+  background-color: #f8f8f8;
+  max-width: 1200px;
+  padding: 39px 8px 8px;
+}
+
+.questionsOptions {
+  background-color: #fff;
+  font-size: 26px;
+  padding: 47px 0 11px;
+  box-sizing: inherit;
+  width: 100%;
+  height: 500vh;
+}
+.questionsOptions2 {
+  padding: 47px 40px 11px;
+  align-items: flex-start;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  font-size: 26px;
+  justify-content: space-between;
+  padding: 47px 0 11px;
+  width: 100%;
+}
+.custom-text {
+  padding-left: 1.5rem;
+  margin-bottom: 36px;
+  font-weight: 600;
+  font-size: 28px;
+  margin-left: 15px;
+  margin-top: 0.5em;
+  display: inline-block;
+  box-sizing: inherit;
+}
+.input-text {
+  width: 6%;
+  overflow: visible;
+  margin-left: 1em;
+  margin-right: 0.5em;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  height: 64px;
+  width: auto;
+  padding: 0 16px;
+  font-size: 28px;
+  font-weight: 500;
+  color: #333;
+  border: 3px solid #333;
+  box-sizing: border-box;
+}
+
+.div2 {
+  margin-top: 20px;
+  background: rgb(241, 241, 245);
+}
+.flex-direction-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.custom-control {
+  position: relative;
+  display: block;
+  min-height: 1.5rem;
+  padding-left: 1.5rem;
+  margin-bottom: 15px;
+}
+
+#radio-input {
+  box-sizing: border-box;
+  padding: 0;
+  vertical-align: top;
+}
+
+#label-radio {
+  position: relative;
+  padding-left: 42px;
+  cursor: pointer;
+  line-height: 20px;
+  display: inline-block;
+  color: #333;
+  font-weight: 400;
+}
+
+.check-box {
+  margin-right: 1em;
+  border-radius: 3px;
+  border: solid;
+  font-size: 15px;
+}
+input[type="checkbox"] {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  background: white;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+input[type="checkbox"]:checked {
+  background: rgb(102, 138, 209);
+}
+
+input[type="radio"] {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  background: white;
+
+  border: 2px solid black;
+}
+input[type="radio"]:checked {
+  background: rgb(102, 138, 209);
+}
+
+.banner-form {
+  width: 100%;
+  padding: 40px 45px;
+  margin: 0;
+
+  max-width: 1000px;
+
+  border-radius: 4px;
+  background: #f8f8f8;
+  border: 2px solid #091494;
+  position: relative;
+}
+
+.banner-form-row {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.banner-form-logo {
+  position: absolute;
+  top: 20px;
+  right: 50px;
+  width: 200px;
+  height: auto;
+}
+
+.banner-form-logo img {
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+  border-style: none;
+}
+.banner-form-logo2 {
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70px;
+  height: 70px;
+}
+
+.banner-form-informations {
+  flex: 1;
+}
+
+.banner-form-title {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  font-style: normal;
+  line-height: 40px;
+  color: #091494;
+}

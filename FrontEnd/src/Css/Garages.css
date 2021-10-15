@@ -1,0 +1,12 @@
+div.garagebg {
+  display: table;
+  width: 100%;
+  padding: 0;
+  margin-top: 20px;
+  background: url(../img/bg2.jpg) center center no-repeat;
+  background-color: #e5e5e5;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}

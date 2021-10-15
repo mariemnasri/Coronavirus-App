@@ -1,0 +1,31 @@
+div.bg3 {
+  display: table;
+  width: 100%;
+  padding: 0;
+  margin-top: 20px;
+  background: url(../img/bg3.jpg) center center no-repeat;
+  background-color: #e5e5e5;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+input.form-check-input {
+  width: 20px;
+
+  position: relative;
+  left: 200px;
+
+  vertical-align: middle;
+}
+
+label.form-check-label {
+  width: 200px;
+
+  position: relative;
+  left: -20px;
+
+  display: inline-block;
+  vertical-align: middle;
+}

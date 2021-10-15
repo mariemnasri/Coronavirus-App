@@ -1,0 +1,144 @@
+{
+  "Header": {
+    "title": "AutoAdviser",
+    "paragraph": "Le premier site Tunisien qui vous aidera a choisir le meilleur garagiste  "
+  },
+  "Garages": {
+    "paragraph": "Garages et Centres auto : meilleurs avis !",
+    "Why": ["Au moins 3/5 étoiles  ", "Avis clients", "", ""]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-car",
+      "name": "Carnets d'entretien",
+      "text": "Retrouvez votre carnet d'entretien parmi 36 marques automobiles.."
+    },
+    {
+      "icon": "fa fa-question",
+      "name": "Aide au diagnostic des pannes",
+      "text": "Top des pannes les plus fréquentes : comment les identifier ?"
+    },
+    {
+      "icon": "fa fa-dollar",
+      "name": "Prix , Fiabilité , Entretien par modéle",
+      "text": "Prix de l'entretien auto et réparations par constructeurs automobiles."
+    },
+    {
+      "icon": "fa fa-comment",
+      "name": "Conseils automobilistes",
+      "text": "Conseils, astuces et bons plans pour automobilistes."
+    },
+    {
+      "icon": "fa fa-comments",
+      "name": "Forum automobilistes",
+      "text": "Une question sur l'entretien de votre véhicule ?"
+    },
+    {
+      "icon": "fa fa-car",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Aide": [
+    {
+      "img": "img/aide/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/aide/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/aide/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/aide/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Ariana , Tunisie",
+    "phone": "+216 22 22 22 22",
+    "email": "AutoAdviser@company.tn",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Garagiste": [
+    {
+      "icon": "fa fa-user",
+      "title": "Connexion à mon espace pro",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-user-plus",
+      "title": "Je souhaite m'inscrire",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-plus",
+      "title": "Actus garagistes",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-question",
+      "title": "FAQ garagistes",
+      "text": ""
+    }
+  ],
+  "Vidange": {
+    "title": "Révision voiture ",
+    "paragraph": "La révision auto de votre véhicule est une étape importante et essentielle à son fonctionnement. Le constructeur de votre véhicule a conçu un programme d’entretien qu’il convient, à minima, de respecter. Bon à savoir : Pour faire votre révision au meilleur rapport qualité prix, certains garages ou centres auto partenaires vous proposent même un forfait révision ! Dans le cadre de cette prestation, plusieurs contrôles de niveaux sont souvent proposés et vous permettre de reprendre la route en toute sécurité l'esprit serein."
+  },
+  "Courroie": {
+    "title": "Courroie de distribution",
+    "paragraph": "Une courroie de distribution est une pièce importante d'un véhicule. Les galets de distribution entrainent cette courroie qui agit sur différentes pièces du moteur tels que le vilebrequin, la pompe à injection et parfois la pompe à eau et le ou les arbres à cames qui mettent en mouvement de manière très précise et coordonnée les soupapes et des pistons du moteur de votre voiture.",
+    "paragraph2": "Les galets tendeurs et la courroie forment le kit de distribution. Avec le temps l'état de la courroie et des galets se détériorent et pourraient endommager très gravement le moteur en cas de rupture. Il est conseillé de vérifier régulièrement le kilométrage parcouru, le temps passé, ainsi que l'état général de la courroie et de chaque galet tendeur depuis le dernier remplacement afin d'éviter une panne importante de votre moteur. Tout au long de cet article, nous vous apportons des réponses précises aux questions fréquentes lié à l'entretien du kit de distribution : quand changer ma courroie de distribution sur ma voiture ou quel est le prix pour le remplacement d'une courroie de distribution mais aussi comment détecter les symptômes d'une courroie usée.",
+    "paragraph3": "",
+    "liste": [
+      " Remplacement de courroie de distribution;  ",
+      "Changement des galets de distribution;",
+      "Changement de la pompe à eau;",
+      "Remplacement du liquide de refroidissement;",
+      "Changement de la courroie d'accessoires;",
+      "Changement des galets d’accessoires (non compris dans le devis, le garage peut vous conseiller et si besoin vous proposer un devis séparément)."
+    ]
+  }
+}
